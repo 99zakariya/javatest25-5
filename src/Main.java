@@ -8,7 +8,7 @@ public class Main{
         double costPerDay=sc.nextDouble();
         System.out.println("Enter the number of days edit by zak");
         int noOfDays=sc.nextInt();
-        System.out.println("Enter the type of event\n1.Exhibition\n2.Stage Event");
+        System.out.println("Enter the type of event\n1.Exhibition\n2.Stage Event edit by zak");
         int type=sc.nextInt();
         
         Event event;
