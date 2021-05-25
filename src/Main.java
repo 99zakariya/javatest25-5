@@ -4,7 +4,11 @@ public class Main{
         Scanner sc=new Scanner(System.in);
     	System.out.println("Enter event name edit by kanika ");
     	String name=sc.nextLine();
+<<<<<<< HEAD
         System.out.println("Enter the cost per day edited by zak");
+=======
+        System.out.println("Enter the cost per day edited by kanika second time by knik");
+>>>>>>> 50f5c03dd014875c46a1e24564a16ffda61621a9
         double costPerDay=sc.nextDouble();
         System.out.println("Enter the number of days edit by zak");
         int noOfDays=sc.nextInt();
