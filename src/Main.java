@@ -4,7 +4,7 @@ public class Main{
         Scanner sc=new Scanner(System.in);
     	System.out.println("Enter event name edit by kanika ");
     	String name=sc.nextLine();
-        System.out.println("Enter the cost per day");
+        System.out.println("Enter the cost per day edited by kanika");
         double costPerDay=sc.nextDouble();
         System.out.println("Enter the number of days");
         int noOfDays=sc.nextInt();
