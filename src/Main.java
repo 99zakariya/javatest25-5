@@ -6,7 +6,7 @@ public class Main{
     	String name=sc.nextLine();
         System.out.println("Enter the cost per day edited by kanika second time by knik");
         double costPerDay=sc.nextDouble();
-        System.out.println("Enter the number of days edit by zak");
+        System.out.println("Enter the number of days edit by zak another done by kanika");
         int noOfDays=sc.nextInt();
         System.out.println("Enter the type of event\n1.Exhibition\n2.Stage Event edit by zak");
         int type=sc.nextInt();
